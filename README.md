@@ -8,8 +8,8 @@ A Machine Learning NLP project to extract research topics based on publication t
 - Python 
 
 ## Official Docs
-[KeyBERT Github Repository](https://github.com/MaartenGr/KeyBERT)
-[KeyBERT Article](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea)
+- [KeyBERT Github Repository](https://github.com/MaartenGr/KeyBERT)
+- [KeyBERT Article](https://towardsdatascience.com/keyword-extraction-with-bert-724efca412ea)
 
 ## Installation
 ### Installing library to nlp preprocessing
