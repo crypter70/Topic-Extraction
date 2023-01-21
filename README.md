@@ -16,7 +16,7 @@ A Machine Learning NLP project to extract research topics based on publication t
     pip3 install keybert
 
 ### Downloading nltk stopwords
-    If you don't have the nltk stopword data yet, you need to download the nltk stopword data as follows below.
+If you don't have the nltk stopword data yet, you need to download the nltk stopword data as follows below.
 
     import nltk
     nltk.download()
