@@ -23,6 +23,8 @@ If you don't have the nltk stopword data yet, you need to download the nltk stop
 
 ### Result
 - Raw Data
+<img width="408" alt="Screenshot 2023-01-22 at 04 47 00" src="https://user-images.githubusercontent.com/74947224/213888315-cd6ba97d-736b-486f-8638-81877782f2ed.png">
 
 - Topic Result
+<img width="707" alt="Screenshot 2023-01-22 at 04 47 26" src="https://user-images.githubusercontent.com/74947224/213888319-06b8008d-42b9-4793-91b9-01a3b005778b.png">
 
